@@ -1,0 +1,2 @@
+# Java-Implementation-of-Karnaugh-Maps-K-Map-Calculator-for-Digital-Electronics-Learning
+igital Electronics is a fundamental subject in the field of electrical engineering, focusing on the study of digital circuits and systems. One of the essential topics covered in this subject is the Karnaugh Map (K-Map), a graphical method used for simplifying Boolean algebra expressions and optimizing logic circuits.
